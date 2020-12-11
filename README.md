@@ -8,4 +8,5 @@ __Information Security(IS)__
 __Data Analysis & Algoritm(DAA)__
 
 1.QuickSort
+2.Fractional Knapsack
 
