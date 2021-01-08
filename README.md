@@ -13,3 +13,5 @@ __Data Analysis & Algoritm(DAA)__
 
 2.Fractional Knapsack
 
+3.4Queen Problem using Backtrack approach
+
